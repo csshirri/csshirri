@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @csshirri
-- 👀 I’m interested in bioinformatics, protein engineering, and the wonderfully wacky world of money
-- 🌱 I’m currently learning how to write intermediate-level python and c++
-- 💞️ I’m looking to collaborate on anything
+- Hello there
+- 👀 I’m interested in building in biology.
+- 🌱 I’m currently learning how to build out better datasets for ML models in biology.
+- 💞️ I’m looking to collaborate and build something with good people.
 - 📫 How to reach me csshirri@gmail.com
 
 <!---
