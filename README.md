@@ -1,7 +1,7 @@
 - Hello there
 - 👀 I’m interested in building in biology.
 - 🌱 I’m currently learning how to build out better datasets for ML models in biology.
-- 💞️ I’m looking to collaborate and build something with good people.
+- 💞️ I’m looking to collaborate and build something big with great people.
 - 📫 How to reach me csshirri@gmail.com
 
 <!---
