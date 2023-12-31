@@ -4,6 +4,7 @@
  My broad interest is in developing algorithms that help us make better decisions in biotech and pharma. This relates to the entire decision-making landscape:
 <br></br>
 <li>Directions for research </li>
+<li>Data analysis </li>
 <li>Intellectual property </li>
 <li>Regulatory strategy </li>
 <li>Business Development </li>
