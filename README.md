@@ -1,4 +1,4 @@
-<h1> Cody Shirriff's Github Repository </h1>
+<h1> Shirriff's Repo </h1>
 
 <body>
 I love a good algorithm.
